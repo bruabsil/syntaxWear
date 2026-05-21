@@ -46,8 +46,10 @@ main{
 }
 
 
-.footer-copy{
-    font-size: 1.25rem;
-    text-align: center;
-    padding: 20px 0;
+@media (max-width: 1280px) {
+
+    main{
+        padding: 0.624rem;
+    }
+
 }
